@@ -100,3 +100,4 @@ Puedes ver los `syllabus` de los semestres anteriores en:
 - [2022-1](https://github.com/IIC2233/syllabus-2022-1)
 - [2022-2](https://github.com/IIC2233/Syllabus-2022-2)
 - [2023-1](https://github.com/IIC2233/Syllabus-2023-1)
+Hola
